@@ -1,4 +1,5 @@
 # UnCSS
+Удаление не используемых стилей  CSS
 
 [![NPM version](https://img.shields.io/npm/v/uncss.svg)](https://www.npmjs.com/package/uncss)
 [![Linux Build Status](https://img.shields.io/travis/uncss/uncss/master.svg?label=Linux%20build)](https://travis-ci.org/uncss/uncss)
